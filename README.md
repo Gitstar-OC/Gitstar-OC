@@ -19,16 +19,16 @@
 - #### Excellent communication and teamwork skills
 
 ## Education & Certification:
-- ### High School Diploma, [Your High School Name], Maharashtra, India (In Progress)
+- #### High School Diploma, [Your High School Name], Maharashtra, India (In Progress)
 
-- ### Meta Professional Front End Developer Certificate
+- #### Meta Professional Front End Developer Certificate
 
 
 ##  I’m currently learning 🌱
 
 
 ## Looking for 👀
-- 
+- #### I am in search of exceptional candidates who require a highly skilled engineer with a proven ability to rapidly acquire and master advanced technical competencies
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

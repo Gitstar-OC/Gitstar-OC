@@ -28,9 +28,11 @@
 
 ### 💞️ I’m looking to collaborate on [Theme Verse](https://github.com/Gitstar-OC/Little-Lemon-Coursera) a project of mine with a backed developer or any open source project which is using react
 
+<!---
 - 📫 How to reach me ...
 
 - ⚡ Fun fact: ...
+--->
 
 <!---
 Gitstar-OC/Gitstar-OC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

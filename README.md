@@ -6,7 +6,7 @@
   <li><a href="https://github.com/Gitstar-OC/Little-Lemon-Coursera"> Little Lemon  </a></li>
 </ul>
 
-- 👀 I’m interested in ...
+## 👀 I’m interested in ...
 
 ## Skills:
 - #### Proficient in HTML, CSS, JavaScript

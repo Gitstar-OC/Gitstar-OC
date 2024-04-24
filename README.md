@@ -18,7 +18,8 @@
 
 ##  I’m currently learning 🌱
 - #### Currently learning Python as a secondary language
-
+- #### Machine Learning Algorithms
+- #### Basics of Superwised and Unsuperwised learning
 
 ## Looking for 👀
 - #### I am in search of exceptional candidates who require a highly skilled engineer with a proven ability to rapidly acquire and master advanced technical competencies

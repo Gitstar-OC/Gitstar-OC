@@ -14,11 +14,6 @@
 - #### Able to learn and apply new skills quickly
 
 
-## Education & Certification:
-- #### High School Diploma, [Your High School Name], Maharashtra, India (In Progress)
-- #### Meta Professional Front End Developer Certificate
-
-
 ##  I’m currently learning 🌱
 - #### Currently learning Python as a secondary language
 

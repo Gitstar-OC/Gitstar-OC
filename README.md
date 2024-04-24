@@ -19,6 +19,10 @@
 - #### Excellent communication and teamwork skills
 
 ##  I’m currently learning 🌱
+
+
+## Looking for 
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

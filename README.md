@@ -20,7 +20,6 @@
 
 ## Education & Certification:
 - #### High School Diploma, [Your High School Name], Maharashtra, India (In Progress)
-
 - #### Meta Professional Front End Developer Certificate
 
 
@@ -30,9 +29,10 @@
 ## Looking for 👀
 - #### I am in search of exceptional candidates who require a highly skilled engineer with a proven ability to rapidly acquire and master advanced technical competencies
 
-- 💞️ I’m looking to collaborate on ...
+### 💞️ I’m looking to collaborate on [Theme Verse](https://github.com/Gitstar-OC/Little-Lemon-Coursera) a project of mine with a backed developer or any open source project which is using react
+
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 
 <!---

@@ -2,8 +2,8 @@
 
 ## Working On 
 <ul> 
-  <li><a href="https://github.com/Gitstar-Om/Theme-Verse">Theme Verse</a> </li>
-  <li><a></a></li>
+  <li><a href="https://github.com/Gitstar-OC/Theme-Verse">Theme Verse</a> </li>
+  <li><a href="https://github.com/Gitstar-OC/Little-Lemon-Coursera"> Little Lemon</a></li>
 </ul>
 
 - 👀 I’m interested in ...

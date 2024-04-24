@@ -18,10 +18,17 @@
 - #### Strong problem-solving and troubleshooting abilities
 - #### Excellent communication and teamwork skills
 
+## Education & Certification:
+- ### High School Diploma, [Your High School Name], Maharashtra, India (In Progress)
+
+- ### Meta Professional Front End Developer Certificate
+
+
 ##  I’m currently learning 🌱
 
 
-## Looking for 
+## Looking for 👀
+- 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

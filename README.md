@@ -1,6 +1,6 @@
 ### 👋 Hi,  I'm OC a front end developer based in India.
 
-## Working On 
+## Working On  
 <ul> 
    <li><a href="https://github.com/Gitstar-OC/Theme-Verse"> Theme Verse </a> </li>
   <li><a href="https://github.com/Gitstar-OC/Little-Lemon-Coursera"> Little Lemon  </a></li>
@@ -8,7 +8,7 @@
 
 ## 👀 I’m interested in ...
 
-## Skills:
+## Skills 💪🏻
 - #### Proficient in HTML, CSS, JavaScript
 - #### Experience with CSS libraries such as Bootstrap and Tailwind CSS
 - #### Familiarity with JavaScript libraries like React

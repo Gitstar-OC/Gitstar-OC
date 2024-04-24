@@ -9,14 +9,10 @@
 ## 👀 I’m interested in ...
 
 ## Skills 💪🏻
-- #### Proficient in HTML, CSS, JavaScript
 - #### Experience with CSS libraries such as Bootstrap and Tailwind CSS
 - #### Familiarity with JavaScript libraries like React
-- #### Currently learning Python as a secondary language
 - #### Able to learn and apply new skills quickly
-- #### Familiarity with version control systems such as Git
-- #### Strong problem-solving and troubleshooting abilities
-- #### Excellent communication and teamwork skills
+
 
 ## Education & Certification:
 - #### High School Diploma, [Your High School Name], Maharashtra, India (In Progress)
@@ -24,6 +20,7 @@
 
 
 ##  I’m currently learning 🌱
+- #### Currently learning Python as a secondary language
 
 
 ## Looking for 👀

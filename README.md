@@ -6,7 +6,9 @@
   <li><a href="https://github.com/Gitstar-OC/Little-Lemon-Coursera"> Little Lemon  </a></li>
 </ul>
 
-## 👀 I’m interested in ...
+## I’m interested in 👀
+- #### DeepLearning and all other wonderful things AI offers
+- #### Learning various python libraries like Tensorflow, Numphy, Python and Numphy.
 
 ## Skills 💪🏻
 - #### Experience with CSS libraries such as Bootstrap and Tailwind CSS

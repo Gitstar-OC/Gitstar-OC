@@ -33,14 +33,14 @@
   <img
     width="24"
     alt="Follow me on Twitter"
-    src="https://raw.githubusercontent.com/Gitstar-OC/Gitstar-OC/main/assets/twitter.svg"
+    src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/twitter.svg"
   /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/om-chandankar" title="Follow me on LinkedIn">
   <img
     width="24"
     alt="Follow me on LinkedIn"
-    src="https://github.com/Gitstar-OC/Gitstar-OC/main/assets/linkedin.svg"
+    src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/linkedin.svg"
   /></a>
 
 <!---

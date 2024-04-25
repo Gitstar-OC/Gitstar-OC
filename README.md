@@ -29,7 +29,7 @@
 
 ## 📫 How to reach me 
 
-<a href="https://twitter.com/" title="Follow me on Twitter">
+<a href="https://twitter.com/Om-Chandankar" title="Follow me on Twitter">
   <img
     width="24"
     alt="Follow me on Twitter"

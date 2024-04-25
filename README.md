@@ -29,6 +29,20 @@
 
 ## 📫 How to reach me 
 
+<a href="https://twitter.com/" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/Gitstar-OC/Gitstar-OC/main/assets/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/om-chandankar" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://github.com/Gitstar-OC/Gitstar-OC/main/assets/linkedin.svg"
+  /></a>
+
 <!---
 - ⚡ Fun fact: ...
 --->

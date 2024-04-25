@@ -43,9 +43,9 @@
     src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/linkedin.svg"
   /></a>
 
-<!---
-- ⚡ Fun fact: ...
---->
+
+### ⚡ Fun fact:
+- [Tim Cook](https://www.apple.com/in/leadership/tim-cook/) don't code
 
 <!---
 Gitstar-OC/Gitstar-OC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

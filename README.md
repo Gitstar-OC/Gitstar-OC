@@ -11,13 +11,13 @@
 - #### Learning various python libraries like Tensorflow, Numphy, Python and Numphy.
 
 ## Skills 💪🏻
-- #### Experience with CSS libraries such as Bootstrap and Tailwind CSS
-- #### Familiarity with JavaScript libraries like React
+- #### Experience with CSS libraries such as [Bootstrap](https://getbootstrap.com/) and [Tailwind CSS](https://tailwindcss.com/)
+- #### Familiarity with JavaScript libraries like [React](https://react.dev/)
 - #### Able to learn and apply new skills quickly
 
 
 ##  I’m currently learning 🌱
-- #### Currently learning Python as a secondary language
+- #### Currently learning [Python](https://www.python.org/) as a secondary language
 - #### Machine Learning Algorithms
 - #### [Machine Learning](https://github.com/Gitstar-OC/Machine-Learning)
 

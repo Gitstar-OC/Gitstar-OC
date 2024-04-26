@@ -8,7 +8,7 @@
 
 ## I’m interested in 👀
 - #### DeepLearning and all other wonderful things AI offers
-- #### Learning various python libraries like Tensorflow, Numphy, Python and Numphy.
+- #### Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).
 
 ## Skills 💪🏻
 - #### Experience with CSS libraries such as [Bootstrap](https://getbootstrap.com/) and [Tailwind CSS](https://tailwindcss.com/)

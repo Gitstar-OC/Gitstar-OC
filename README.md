@@ -17,9 +17,9 @@
 
 
 ##  I’m currently learning 🌱
-- #### Currently learning [Python](https://www.python.org/) as a secondary language
-- #### Machine Learning Algorithms
-- #### [Machine Learning](https://github.com/Gitstar-OC/Machine-Learning)
+- #### Currently learning [Python](https://www.python.org/) as a secondary language, Prompt Engineering and API's
+- #### Machine Learning Algorithms and [Machine Learning](https://github.com/Gitstar-OC/Machine-Learning)
+- #### Maths for machine learning like statistics, calculus, linear algebra and PCA
 
 ## Looking for 👀
 - ### I am in search of exceptional candidates who require a highly skilled engineer with a proven ability to rapidly acquire and master advanced technical competencies

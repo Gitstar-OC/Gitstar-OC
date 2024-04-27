@@ -27,7 +27,7 @@
 - ###  I’m looking to collaborate on [Theme Verse](https://github.com/Gitstar-OC/Little-Lemon-Coursera) a project of mine with a backed developer or any open source pro- ject which is using react 💞️
 
 
-## 📫 How to reach me 
+##  How to reach me 📫
 
 <a href="https://twitter.com/Om_Chandankar" title="Follow me on Twitter">
   <img

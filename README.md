@@ -1,5 +1,5 @@
 ### 👋 Hi,  I'm OC a front end developer based in India.
-
+ 
 ## Working On ⚒️
 <ul> 
    <li><a href="https://github.com/Gitstar-OC/Theme-Verse"> Theme Verse </a> </li>
@@ -44,7 +44,7 @@
   /></a>
 
 
-### ⚡ Fun fact:
+###  Fun fact ⚡
 - [Tim Cook](https://www.apple.com/in/leadership/tim-cook/) don't code!
 
 <!---

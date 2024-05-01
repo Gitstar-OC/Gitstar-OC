@@ -42,6 +42,12 @@
     alt="Follow me on LinkedIn"
     src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/linkedin.svg"
   /></a>
+  <a href="https://www.instagram.com/chandankar_om/" title="Follow me on Instagram">
+  <img
+    width="24"
+    alt="Follow me on instagram"
+    src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/instagram.png"
+  /></a>
 
 
 ###  Fun fact ⚡

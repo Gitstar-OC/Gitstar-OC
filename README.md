@@ -24,7 +24,7 @@
 ## Looking for 👀
 - ### I am in search of exceptional candidates who require a highly skilled engineer with a proven ability to rapidly acquire and master advanced technical competencies
 
-- ###  I’m looking to collaborate on [Theme Verse](https://github.com/Gitstar-OC/Little-Lemon-Coursera) a project of mine with a backed developer or any open source pro- ject which is using react 💞️
+- ###  I’m looking to collaborate on [Theme Verse](https://github.com/Gitstar-OC/Little-Lemon-Coursera) a project of mine with a backed developer or any open source project which is using react 💞️
 
 
 ##  How to reach me 📫

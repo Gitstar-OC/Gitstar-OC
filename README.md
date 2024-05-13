@@ -6,14 +6,11 @@
 </ul>
 
 ## I’m interested in 👀
-- #### DeepLearning and all other wonderful things AI offers
-- #### Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).
+- #### DeepLearning and Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).
 
 ## Skills 💪🏻
-- #### Experience with CSS libraries such as [Bootstrap](https://getbootstrap.com/) and [Tailwind CSS](https://tailwindcss.com/)
-- #### Familiarity with JavaScript libraries like [React](https://react.dev/)
-- #### Able to learn and apply new skills quickly
-
+- #### [Bootstrap](https://getbootstrap.com/), [Tailwind CSS](https://tailwindcss.com/), [React](https://react.dev/), [ChakraUI](https://v2.chakra-ui.com/)
+- #### Fast-Paced Learner: I thrive in dynamic environments and have a knack for learning new languages, libraries, and frameworks quickly.
 
 ##  I’m currently learning 🌱
 - #### Currently learning [Python](https://www.python.org/) as a secondary language, Prompt Engineering and API's

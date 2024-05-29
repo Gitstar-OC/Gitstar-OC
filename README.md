@@ -1,7 +1,7 @@
 ### 👋 Hi,  I'm OC a front end developer based in India.
  
-## Working On ⚒️
-###  <ul>  <li><a href="https://github.com/Gitstar-OC/Theme-Verse"> Theme Verse </a> </li></ul>
+## Working On ⚒️  
+### <ul>  <li><a href="https://github.com/Gitstar-OC/Theme-Verse"> Theme Verse </a> </li></ul>
 
 ## I’m interested in 👀
 - #### DeepLearning and Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).

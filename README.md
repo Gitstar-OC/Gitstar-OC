@@ -4,13 +4,13 @@
 ### <ul>  <li><a href="https://Theme-Verse.com"> Theme Verse </a> </li></ul> 
 
 ## Working on
-### Pesto Project
+### - Pesto Project
 
 ## I’m interested in 👀
 - #### DeepLearning and Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).
 
 ## Skills 💪🏻
-- #### [Bootstrap](https://getbootstrap.com/), [Tailwind CSS](https://tailwindcss.com/), [React](https://react.dev/), [ChakraUI](https://v2.chakra-ui.com/), [Formik](https://formik.org/), [Jest](https://jestjs.io/), Python. 
+- #### [Bootstrap](https://getbootstrap.com/), [Tailwind CSS](https://tailwindcss.com/), [React](https://react.dev/), [ChakraUI](https://v2.chakra-ui.com/), [Formik](https://formik.org/), [Jest](https://jestjs.io/), Python, Flask, Django, AWS, UX / UI Design, UX Research, Wireframes, Docker, Numpy, Pandas, Matplotlib, Twnsorflow. 
 - #### Fast-Paced Learner: I thrive in dynamic environments and have a knack for learning new languages, libraries, and frameworks quickly.
 
 ##  I’m currently learning 🌱

@@ -1,4 +1,6 @@
 ### 👋 Hi,  I'm OC a front end developer based in India.
+
+## > Currently Coding on Tablet as there is a major issue in the laptop from past month. That is the reason for the commits.
  
 ## Worked On ⚒️  
 ### <ul>  <li><a href="https://Theme-Verse.com"> Theme Verse </a> </li></ul> 

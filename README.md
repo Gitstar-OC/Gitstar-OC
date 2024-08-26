@@ -1,12 +1,11 @@
 ### 👋 Hi,  I'm OC a front end developer based in India.
 
-## > Currently Coding on Tablet as there is a major issue in the laptop from past month. That is the reason for the commits.
  
 ## Worked On ⚒️  
 ### <ul>  <li><a href="https://Theme-Verse.com"> Theme Verse </a> </li></ul> 
 
-## Working on
-### - Pesto Project
+## Currently Working on
+### Making docs to learn AI, machine learning, various algorithms and deep learning. Building both the front end and backend of the whole website which will be presented ai.theme-verse.com. 
 
 ## I’m interested in 👀
 - #### DeepLearning and Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).
@@ -19,8 +18,6 @@
 - #### Back End Development and [Machine Learning](https://github.com/Gitstar-OC/Machine-Learning) in [Python](https://www.python.org/)
 - #### Machine Learning and Deep Learning Algorithms and Maths for machine learning like statistics, calculus, linear algebra and PCA. 
 
-## Looking for 👀
-- ### I am in search of exceptional candidates who require a highly skilled engineer with a proven ability to rapidly acquire and master advanced technical competencies
 
 ##  How to reach me 📫
 
@@ -45,7 +42,7 @@
     src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/instagram.png"
   /></a>
 
-
+<!--
 ###  Fun fact ⚡
 - [Tim Cook](https://www.apple.com/in/leadership/tim-cook/) don't code!
 

@@ -15,6 +15,9 @@
 
 ##  How to reach me 📫
 
+oc@theme-verse.com
+
+<!--
 <a href="https://twitter.com/Om_Chandankar" title="Follow me on Twitter">
   <img
     width="24"
@@ -36,7 +39,7 @@
     src="https://github.com/Gitstar-OC/Gitstar-OC/blob/main/assets/instagram.png"
   /></a>
 
-<!--
+
 ###  Fun fact ⚡
 - [Tim Cook](https://www.apple.com/in/leadership/tim-cook/) don't code!
 

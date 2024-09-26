@@ -1,20 +1,22 @@
 ### 👋 Hi,  I'm OC a front end developer based in India.
 
  
-### Worked On ⚒️  
- <ul>  <li><a href="https://Theme-Verse.com"> Theme Verse </a> </li></ul> 
-
-### Currently Working on
- Making docs to learn AI, machine learning, various algorithms and deep learning. Building both the front end and backend of the whole website which will be presented ai.theme-verse.com. 
-
+### Working On ⚒️  
+ - [Mindect](https://mindect.vercel.app/)  which is a platform to learn AI, ML, DL, and vaious algorithms from scratch. 
+ 
 ### I’m interested in 👀
 - DeepLearning and Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).
 
 ### Skills 💪🏻
--  Numpy, Twnsorflow, NextJS, TypeScript, Flask, Django,  React, AWS, SQLite, Pandas, Matplotlib, Formik, Jest, Python,   UX / UI Design, UX Research, Wireframes, Bootstrap, Tailwind CSS,  
+
+- UX / UI: UX / UI Design, UX Research, Wireframes, User Psychology.
+- Front End:    NextJS, TypeScript, React, JavaScript, Chakra, Jest,  Bootstrap, Tailwind CSS, Component Libraries.
+- Backend: Flask, Django, Python,
+- Cloud and Database:  AWS, SQLite, SQL, PostgreSQL, MongoDB, Vercel
+- Machine Leanring: Python, Numpy, Twnsorflow, Pandas, Matplotlib.
+- Other: Docker, Kubernetes, YML, XML, YAML. 
 
 ##  How to reach me 📫
-
 oc@theme-verse.com
 
 <!--

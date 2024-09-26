@@ -11,7 +11,7 @@
 
 - UX / UI: UX / UI Design, UX Research, Wireframes, User Psychology.
 - Front End: NextJS, TypeScript, React, JavaScript, Chakra, Jest,  Bootstrap, Tailwind CSS, Component Libraries.
-- Backend: Flask, Django, Python,
+- Backend: Flask, Django, Python, FastAPI, Nodejs, Express, RestAPI
 - Cloud and Database:  AWS, SQLite, SQL, PostgreSQL, MongoDB, Vercel
 - Machine Leanring: Python, Numpy, Twnsorflow, Pandas, Matplotlib.
 - Other: Docker, Kubernetes, YML, XML, YAML. 

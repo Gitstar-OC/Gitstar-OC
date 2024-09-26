@@ -2,7 +2,7 @@
 
  
 ### Working On ⚒️  
- - [Mindect](https://mindect.vercel.app/)  which is a platform to learn AI, ML, DL, and vaious algorithms from scratch. 
+ - [Mindect](https://mindect.vercel.app/), a platform to learn AI, ML, DL, and vaious algorithms from scratch. 
  
 ### I’m interested in 👀
 - DeepLearning and Learning various Python libraries like [Tensorflow](https://www.tensorflow.org/), [Numpy](https://numpy.org/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/) and [Pandas](https://pandas.pydata.org/).

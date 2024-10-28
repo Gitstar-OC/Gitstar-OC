@@ -1,4 +1,4 @@
-### 👋 Hi,  I'm OC a Full Stack based in India.
+### 👋 Hi,  I'm OC a Full Stack Developerbased in India.
 
  
 ### Working On ⚒️  

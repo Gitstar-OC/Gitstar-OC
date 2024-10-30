@@ -9,10 +9,10 @@
 
 ### Skills 💪🏻
 
-- UX / UI: UX / UI Design, UX Research, Wireframes, User Psychology.
-- Front End: NextJS, TypeScript, React, JavaScript, Chakra, Jest,  Bootstrap, Tailwind CSS, Component Libraries.
+- UX / UI: UX / UI Design, Figma, UX Research, Wireframes, User Psychology.
+- Front End: NextJS, TypeScript, React, JavaScript, Bootstrap, Tailwind CSS, Component Libraries.
 - Backend: Flask, Django, Python, FastAPI, Nodejs, Express, RestAPI
-- Cloud and Database:  AWS, SQLite, SQL, PostgreSQL, MongoDB, Vercel
+- Cloud and Database:  AWS, SQLite, SQL, PostgreSQL, MongoDB, Vercel, Supabase, Render
 - Machine Leanring: Python, Numpy, Twnsorflow, Pandas, Matplotlib.
 - Other: Docker, Kubernetes, YML, XML, YAML. 
 

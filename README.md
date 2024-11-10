@@ -4,7 +4,7 @@
 
 ### ⚒️ Working On   
  - [Mindect](https://mindect.vercel.app/) a platform to learn AI, ML, DL, and vaious algorithms from scratch.
- - [Vision OS Website]
+ - [Vision OS](https://vos.theme-verse.com) with design experiment on the which looks similar to apple vision pro
 
 ### About Me
 - Active Coder, 5X Hackathon Winner!, Did more than 10 paid projects as a freelancer, 20+ hackathons participation with 10+ projects!!
